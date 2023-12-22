@@ -552,7 +552,9 @@ card-icon
 
 .cta { background-position: 75%; }
 
-.cta-banner { display: none; }
+.cta-banner { display: none; 
+color: aqua;
+}
 
 .cta-content { padding-block: 80px var(--section-padding); }
 
