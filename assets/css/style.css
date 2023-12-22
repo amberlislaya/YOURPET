@@ -522,6 +522,7 @@ card-icon
 .service .img {
   margin-inline: auto;
   margin-block-end: 30px;
+  color: var(--blue);
 }
 
 .service .section-title { margin-block-end: 60px; }
